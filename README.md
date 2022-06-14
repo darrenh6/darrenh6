@@ -1,5 +1,6 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=darrenh6.visitor-badge) [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
-> ex-arch rice loser
+> ex-arch rice loser  
+> rip [atom](https://github.blog/2022-06-08-sunsetting-atom/) :atom:
 
 16 nyc
 
