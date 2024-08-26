@@ -1,6 +1,6 @@
 [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
 
-17
+18
 
 ## <img src="https://github.com/darrenh6/darrenh6/blob/main/assets/lion.gif" height="36"/> links
 [![](https://img.shields.io/badge/-insta-E1306C?style=flat-square)](https://instagram.com/)
